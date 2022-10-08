@@ -39,13 +39,13 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['94784581014'] //ur owner number
 global.ownername = "𝙳𝙴𝚂𝙷" //ur owner name
 global.ytname = "YT:" //ur yt chanel name
-global.socialm = "GitHub: drcrazy2" //ur github or insta name
+global.socialm = "GitHub" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['94784581014']
 global.ownertag = '94784581014' //ur tag number
-global.botname = 'CYBER-X @DR CRAZY' //ur bot name
+global.botname = '𝙲𝚁𝙰𝚉𝚈 𝙱𝙾𝚃' //ur bot name
 global.ig = "https://youtu.be/uzMbW9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://" //ur website to be displayed
 global.sc = 'https://github.com/drcrazy2' //script link
@@ -53,7 +53,7 @@ global.linkz = 'https://wa.me/+94784581014?text=_Hey:-/ʙ̷ᴀ̷ʙ̷ʜ᭄'
 global.reactmoji = "✨" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
 global.packname = " Cyber-X Test Bot " //ur sticker watermark packname
-global.author = " Cyber-X Test Bot " //ur sticker watermark author
+global.author = " © 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙲𝚁𝙰𝚉𝚈 𝙱𝙾𝚃 " //ur sticker watermark author
 global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
